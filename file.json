@@ -1,23 +1,23 @@
 [
     {
         "channel": {
-            "username": "GozargahVPN",
-            "title": "Gozargah VPN | گذرگاه",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/GozargahVPN.jpg"
+            "username": "google.com",
+            "title": "judul",
+            "logo": "linklogo.jpg"
         },
         "type": "vless",
-        "config": "vless://34311ad1-9914-4523-be6a-3bc277e16577@cpanel.com:443?path=/Telegram:,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,@GozargahVPN,?ed=2048?ed&security=tls&encryption=none&alpn=h2,http/1.1&host=www.GozargahVPN.top&fp=chrome&type=ws&sni=www.GozargahVPN.top#رایگان | VLESS | @GozargahVPN | RELAY🚩 | 0️⃣6️⃣",
+        "config": "V2RAY",
         "ping": 9.09,
         "time": "2024-08-23 13:46:47"
     },
     {
         "channel": {
-            "username": "CUSTOMVPNSERVER",
-            "title": "CUSTOM VPN SERVER",
-            "logo": "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/modules/channels/CUSTOMVPNSERVER.jpg"
+            "username": "link",
+            "title": "judul",
+            "logo": "https://raw.logo.jpg"
         },
         "type": "vless",
-        "config": "vless://28585055-e1e3-4edd-be4d-92c779981139@ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM:80?path=/@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER&security=none&encryption=none&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.CUSTOMVPNSERVER.OnlInEdowNloadERfile.com.&type=ws#رایگان | VLESS | @CUSTOMVPNSERVER | RELAY🚩 | 0️⃣1️⃣",
+        "config": "vless://pass@bug:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fvmess&sni=sni&host=host#MWP",
         "ping": 418.88,
         "time": "2023-12-09 13:35:24"
     }
