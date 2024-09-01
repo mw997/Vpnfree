@@ -15,9 +15,8 @@
             "username": "USRNM",
             "title": "TITLEHERE",
             "logo": "https://Logo.jpg"
-        },
-        "type": "vless",
-        "config": "vless://pass@bug:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fvmess&sni=sni&host=host#MWP2,vless://pass@bug:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fvmess&sni=sni&host=host#MWP2",
+        },        
+        "config": "vless://pass@bug:443?security=tls&encryption=none&headerType=none&type=ws&path=%252Fvmess&sni=sni&host=host#MWP2",
         "ping": 418.88,
         "time": "2023-12-09 13:35:24"
     }
